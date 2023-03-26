@@ -11,6 +11,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             int i = 0;
+            int b = 0; 
         }
     }
 }
